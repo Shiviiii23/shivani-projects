@@ -13,7 +13,7 @@
 
 ### Melody Recognition in Carnatic Music
 
-(/assets/img/laptop_22810.png)
+![Melody Recognition in Carnatic Music](/assets/img/laptop_22810.png)
 
 [Click to see the project!](https://github.com/Shiviiii23/Carnatic-Music-ML/tree/main)
 - This projects is one of my favorites as it combines both of my passions: Carnatic Music and Data Science! In Carnatic Music, there are specific "scales" of notes that musicians follow to render each piece, and sometimes the difference between each scale can be just half a note! These scales are called ragas. Many times in concerts, music conoisseurs find themselves trying to recognize which raga is being rendered. I decided to let Machine Learning give it a try!
