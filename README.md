@@ -20,7 +20,6 @@
   
 
 ### Recommendation System for Writing Startup
-//small picture of book icon
 
 [Click to see the project!](https://github.com/Shiviiii23/RecommendationEng/tree/master)
 
