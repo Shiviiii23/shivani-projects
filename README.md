@@ -13,8 +13,6 @@
 
 ### Melody Recognition in Carnatic Music
 
-![Melody Recognition in Carnatic Music](/assets/img/laptop_22810.png)
-
 [Click to see the project!](https://github.com/Shiviiii23/Carnatic-Music-ML/tree/main)
 - For this project, I used **decision trees, random forests, and neural networks** and made a comparison between the three methods to see which algorithm would recognize the ragas the best. Finally, I used the **confusion matrix** to analyze my data and draw conclusions from that.
 
