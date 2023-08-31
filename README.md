@@ -1,4 +1,4 @@
-# Data Science/ Engineering Portfolio
+# Portfolio
 
 ## Education
 #### Masters of Science in Computer Science 
